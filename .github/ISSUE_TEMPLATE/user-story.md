@@ -1,6 +1,10 @@
-**As a** [role]  
-**I need** [function]  
-**So that** [benefit]  
+---
+name: User Story
+about: Create a user story
+title: "[USER STORY]"
+labels: ""
+assignees: ""
+---
 
 ### Details and Assumptions
 * [document what you know]
